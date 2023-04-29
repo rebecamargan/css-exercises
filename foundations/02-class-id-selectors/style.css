@@ -1,0 +1,16 @@
+.impar, .trei {
+background-color: rgb(233, 89, 89);
+font-family: verdana, "DejaVu Sans", sans-serif;
+}
+#doi {
+    color: rgb(66, 27, 241);
+    font-size: 36px;
+}
+.trei {
+    font-size: 24px;
+}
+#patru {
+    background-color:rgba(131, 224, 159, 0.746);
+    font-size: 24px;
+    font-weight: bold;
+}
