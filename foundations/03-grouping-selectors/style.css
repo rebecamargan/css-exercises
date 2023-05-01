@@ -1,0 +1,14 @@
+.first {
+    background-color:  rgb(201, 243, 10);
+    color: blueviolet;
+}
+.second {
+    background-color: rgb(240, 18, 185);
+    color:rgb(201, 243, 10)
+}
+
+.first,
+.second {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
